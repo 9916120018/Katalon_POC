@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GmailLogin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af0b27e3-2956-4f9f-8355-eb4782e39b90</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9e2c1dd2-1d7d-4e2a-b8e9-aef2340da9c8</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>
