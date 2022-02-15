@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Gmail_Invalid Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>263ce854-897a-465c-95af-f7c5c30d66c9</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b48cd603-c35a-4672-bc18-13522d778305</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>
